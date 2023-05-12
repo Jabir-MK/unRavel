@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17857497466",
+    "project_id": "unravel-88b40",
+    "storage_bucket": "unravel-88b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17857497466:android:a608f054eee3266f702ec3",
+        "android_client_info": {
+          "package_name": "com.example.travel_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17857497466-73ug56fn2l8lqnchf72udmfjkmf0mtol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALa6QZdzaCb_LXyp404QXjue8arC4XqdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17857497466-73ug56fn2l8lqnchf72udmfjkmf0mtol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
